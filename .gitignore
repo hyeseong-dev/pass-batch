@@ -1,4 +1,8 @@
-README.md
+### Docker Database Volume
+db/
+
+.DS_Store
+
 .gradle
 build/
 !gradle/wrapper/gradle-wrapper.jar
