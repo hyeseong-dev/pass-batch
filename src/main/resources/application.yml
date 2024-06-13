@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: pass-batch
+
+  datasource:
+    url: jdbc:h2:mem:mydb
+    username: admin
+    password: supersecret
+    driver-class-name: org.h2.Driver
